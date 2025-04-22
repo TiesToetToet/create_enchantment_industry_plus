@@ -1,0 +1,19 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "create_enchantment_industry:experience",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:glow_ink_sac"
+    }
+  ]
+}

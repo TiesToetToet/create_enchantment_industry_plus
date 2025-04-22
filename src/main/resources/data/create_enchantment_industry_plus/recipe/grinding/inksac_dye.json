@@ -1,0 +1,14 @@
+{
+  "type": "create_dragons_plus:grinding",
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "create_dragons_plus:black_dye"
+    }
+  ]
+}

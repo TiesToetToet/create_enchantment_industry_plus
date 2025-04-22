@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_enchantment_industry_plus:sac"
+    }
+  ]
+}
